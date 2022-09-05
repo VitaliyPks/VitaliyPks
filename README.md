@@ -15,6 +15,10 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" alt="sequlize"/> <img src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp" width="75" alt="sequlize"/> <img src="https://polyakovdmitriy.ru/wp-content/uploads/2020/09/Getting-Started-with-NextJS.jpg" width="90" alt="sequlize"/> 
 
+## Другое: 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitaliyPks&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![codewars](https://www.codewars.com/users/Vitaliy1122/badges/micro)](https://www.codewars.com/users/Vitaliy1122) 
 
